@@ -1,4 +1,4 @@
-# Evaluation-of-Bias-
+# Evaluation-of-Bias
 Evaluating Social Bias in Language Model
 
 This evaluates Social Bias in Small Language Models. Four models (BERT-BASE, BART, and ROBERTA-BASE) are used and fine-tuned on a text-three dataset (CrowsPair and Stereotype). BOLD Dataset was used for text generation using GPT2 only.
